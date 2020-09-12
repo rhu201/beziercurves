@@ -18,6 +18,5 @@ Click do mouse - insere ponto
 
 ESC, q, Q - Fecha o programa
 
-v - Atualiza as curvas desenhadas na tela
-
+v - Atualiza as curvas desenhadas na tela <br>
 r - limpa a tela, apagando curvas e pontos

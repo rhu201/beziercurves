@@ -5,6 +5,7 @@ Visalização de splines cubicas naturais e curvas de Bezier usando Glut e OpenG
 A curva de Bezier não é interpolante (isto é, não passa por todos os pontos marcados pelo mouse) ao contrario da spline cubica.<br>
 Em compensação, a curva de Bezier nunca escapa o feixo convexo de seu poligono de controle, o que lhe torna mais simples de controlar.<br>
 Ambas produzem curvas fechadas quando o primeiro e ultimo ponto de controle são iguais.<br>
+
 Demonstração: https://youtu.be/-wkMQcUBip4
 
 Controle:<br>
